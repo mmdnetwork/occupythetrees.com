@@ -9,4 +9,4 @@ permalink: >
 published: true
 post_date: 2018-07-02 22:09:35
 ---
-This is a page with some basic contact information, such as an address and phone number. You might also try a plugin to add a contact form.
+[contact-form to="email@occupythetrees.com" subject="A fan from the website sent Occupy The Trees a message!"][contact-field label="Name" type="name" required="1"][contact-field label="Email" type="email" required="1"][contact-field label="Message" type="textarea"][/contact-form]
