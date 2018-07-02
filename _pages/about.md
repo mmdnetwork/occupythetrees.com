@@ -9,4 +9,4 @@ permalink: >
 published: true
 post_date: 2018-07-02 22:09:32
 ---
-You might be an artist who would like to introduce yourself and your work here or maybe you&rsquo;re a business with a mission to describe.
+You might be an artist who would like to introduce yourself and your work here or maybe you’re a business with a mission to describe.
