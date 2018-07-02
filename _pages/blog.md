@@ -1,6 +1,6 @@
 ---
 ID: 41
-post_title: Blog
+post_title: News
 author: nathaniel
 post_excerpt: ""
 layout: page
