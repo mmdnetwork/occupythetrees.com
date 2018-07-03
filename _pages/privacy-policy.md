@@ -1,7 +1,7 @@
 ---
 ID: 3
 post_title: Privacy Policy
-author: nathaniel
+author: Occupy_The_Trees
 post_excerpt: ""
 layout: page
 permalink: >

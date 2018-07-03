@@ -1,7 +1,7 @@
 ---
 ID: 100
 post_title: Registration
-author: nathaniel
+author: Occupy_The_Trees
 post_excerpt: ""
 layout: page
 permalink: >

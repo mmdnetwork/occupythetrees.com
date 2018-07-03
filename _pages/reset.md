@@ -1,7 +1,7 @@
 ---
 ID: 96
 post_title: Reset Password
-author: nathaniel
+author: Occupy_The_Trees
 post_excerpt: ""
 layout: page
 permalink: >

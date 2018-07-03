@@ -1,7 +1,7 @@
 ---
 ID: 104
 post_title: My Profile
-author: nathaniel
+author: Occupy_The_Trees
 post_excerpt: ""
 layout: page
 permalink: >

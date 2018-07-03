@@ -1,7 +1,7 @@
 ---
 ID: 41
 post_title: News
-author: nathaniel
+author: Occupy_The_Trees
 post_excerpt: ""
 layout: page
 permalink: >
