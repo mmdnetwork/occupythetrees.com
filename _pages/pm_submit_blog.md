@@ -1,7 +1,7 @@
 ---
 ID: 106
-post_title: Submit New Blog Post
-author: nathaniel
+post_title: Submit New Post
+author: Occupy_The_Trees
 post_excerpt: ""
 layout: page
 permalink: >
