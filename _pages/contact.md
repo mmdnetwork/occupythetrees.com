@@ -1,6 +1,6 @@
 ---
 ID: 40
-post_title: Contact The Band
+post_title: Contact Us
 author: Occupy_The_Trees
 post_excerpt: ""
 layout: page
