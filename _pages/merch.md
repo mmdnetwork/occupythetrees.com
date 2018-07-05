@@ -5,7 +5,7 @@ author: Occupy_The_Trees
 post_excerpt: ""
 layout: page
 permalink: >
-  http://occupythetrees.com/index.php/merch/
+  https://occupythetrees.com/index.php/merch/
 published: true
 post_date: 2018-07-05 00:30:41
 ---

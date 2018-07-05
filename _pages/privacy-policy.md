@@ -5,12 +5,12 @@ author: Occupy_The_Trees
 post_excerpt: ""
 layout: page
 permalink: >
-  http://test.occupythetrees.com/index.php/privacy-policy/
+  https://occupythetrees.com/index.php/privacy-policy/
 published: true
 post_date: 2018-07-02 21:40:02
 ---
 <h2>Who we are</h2>
-Our website address is: http://test.occupythetrees.com.
+Our website address is: http://occupythetrees.com.
 <h2>What personal data we collect and why we collect it</h2>
 <h3>Comments</h3>
 When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.

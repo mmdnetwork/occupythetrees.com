@@ -5,7 +5,7 @@ author: Occupy_The_Trees
 post_excerpt: ""
 layout: page
 permalink: >
-  http://test.occupythetrees.com/index.php/listen-now/
+  https://occupythetrees.com/index.php/listen-now/
 published: true
 post_date: 2018-07-02 23:02:45
 ---
