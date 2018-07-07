@@ -5,8 +5,8 @@ author: Occupy_The_Trees
 post_excerpt: ""
 layout: page
 permalink: >
-  https://occupythetrees.com/index.php/photo-gallery/
+  http://occupythetrees.com/index.php/photo-gallery/
 published: true
 post_date: 2018-07-04 19:02:37
 ---
-[Best_Wordpress_Gallery id="3" gal_title="Photo Gallery"]
+<code id="envira_shortcode_198">[envira-gallery id="198"]</code>
