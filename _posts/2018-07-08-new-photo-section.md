@@ -1,6 +1,6 @@
 ---
 ID: 152
-post_title: New Photo Section!
+post_title: 'Occupy The Trees &#8211; New Photo Gallery'
 author: Occupy_The_Trees
 post_excerpt: ""
 layout: post
