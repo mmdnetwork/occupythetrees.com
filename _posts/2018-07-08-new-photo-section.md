@@ -9,6 +9,10 @@ permalink: >
 published: true
 post_date: 2018-07-08 20:55:30
 ---
-Pictures of the band, album art and much more!
+New Photo Gallery - We recently added a bunch of new photos to a brand new gallery on our site!
+
+<a href="https://occupythetrees.com/index.php/photo-gallery/"><img class="alignnone size-medium wp-image-236" src="https://occupythetrees.com/wp-content/uploads/2018/07/Photo-2017-07-05-23-29-42_0900-1-300x300.jpg" alt="" width="300" height="300" /></a>
 
 <a href="https://occupythetrees.com/index.php/photo-gallery/">Check out our new photo section.</a>
+
+&nbsp;
