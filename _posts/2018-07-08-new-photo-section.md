@@ -9,4 +9,6 @@ permalink: >
 published: true
 post_date: 2018-07-08 20:55:30
 ---
-Check out our new photo section!
+Pictures of the band, album art and much more!
+
+<a href="https://occupythetrees.com/index.php/photo-gallery/">Check out our new photo section.</a>
