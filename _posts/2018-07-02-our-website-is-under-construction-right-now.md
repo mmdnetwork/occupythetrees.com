@@ -1,8 +1,6 @@
 ---
 ID: 74
-post_title: >
-  Our website is under construction right
-  now!
+post_title: 'Occupy The Trees &#8211; Our website is under construction right now!'
 author: Occupy_The_Trees
 post_excerpt: ""
 layout: post
