@@ -9,4 +9,4 @@ permalink: >
 published: true
 post_date: 2018-07-08 05:00:38
 ---
-<img class="alignnone size-medium wp-image-201" src="https://occupythetrees.com/wp-content/uploads/2018/07/Untitled-image-3-174x300.jpg" alt="" width="174" height="300" />
+<img class=" wp-image-203 aligncenter" src="https://occupythetrees.com/wp-content/uploads/2018/07/Untitled-image-2-1-300x169.jpg" alt="" width="497" height="280" />
