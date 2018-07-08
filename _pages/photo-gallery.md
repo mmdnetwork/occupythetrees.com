@@ -9,4 +9,4 @@ permalink: >
 published: true
 post_date: 2018-07-04 19:02:37
 ---
-<code id="envira_shortcode_198">[gdgallery_gallery id_gallery="2"]</code>
+<code id="envira_shortcode_198">[ape-gallery 239]</code>
