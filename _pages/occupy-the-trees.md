@@ -1,6 +1,6 @@
 ---
 ID: 205
-post_title: ""
+post_title: Home
 author: Occupy_The_Trees
 post_excerpt: ""
 layout: page
