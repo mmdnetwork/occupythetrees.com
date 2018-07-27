@@ -5,11 +5,13 @@ author: Occupy_The_Trees
 post_excerpt: ""
 layout: page
 permalink: >
-  http://occupythetrees.com/index.php/checkout/merch/
+  http://occupythetrees.com/index.php/merch/
 published: true
 post_date: 2018-07-05 00:30:41
 ---
 <h1 style="text-align: center;">Purchase OTT Merchandise!!</h1>
+[bd_widgetarea id="undefined"]
+
 &nbsp;
 
 &nbsp;
