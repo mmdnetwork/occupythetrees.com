@@ -11,7 +11,7 @@ post_date: 2018-07-08 20:55:30
 ---
 New Photo Gallery - We recently added a bunch of new photos to a brand new gallery on our site!
 
-<img class="alignnone wp-image-241 size-medium" title="Occup The Trees Band Photo" src="http://occupythetrees.com/wp-content/uploads/2018/07/Photo-2017-07-05-23-29-42_0900-2-300x300.jpg" alt="" width="300" height="300" />
+&nbsp;
 
 <a href="https://occupythetrees.com/index.php/photo-gallery/">Check out our new photo section.</a>
 
