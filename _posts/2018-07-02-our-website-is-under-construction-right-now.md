@@ -1,11 +1,13 @@
 ---
 ID: 74
-post_title: 'Occupy The Trees &#8211; Our website is under construction right now!'
+post_title: >
+  Our website is under construction right
+  now!
 author: Occupy_The_Trees
 post_excerpt: ""
 layout: post
 permalink: >
-  https://occupythetrees.com/index.php/2018/07/02/our-website-is-under-construction-right-now/
+  http://occupythetrees.com/index.php/2018/07/02/our-website-is-under-construction-right-now/
 published: true
 post_date: 2018-07-02 22:26:32
 ---
