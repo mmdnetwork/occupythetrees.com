@@ -1,10 +1,11 @@
 ---
 ID: 205
-post_title: Occupy The Trees
+post_title: Home
 author: Occupy_The_Trees
 post_excerpt: ""
 layout: page
-permalink: https://occupythetrees.com/
+permalink: >
+  http://occupythetrees.com/index.php/occupy-the-trees/
 published: true
 post_date: 2018-07-08 05:00:38
 ---
