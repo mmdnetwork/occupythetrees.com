@@ -12,7 +12,7 @@ post_date: 2018-07-05 00:30:41
 <h1 style="text-align: center;">Purchase OTT Merchandise!!</h1>
 &nbsp;
 
-[bd_widgetarea id="undefined"]
+&nbsp;
 
 &nbsp;
 
